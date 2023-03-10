@@ -1,0 +1,10 @@
+body{
+    background-image: url("./univer.avif");
+}
+
+h1, h2, h3{
+    color: #b65a1d;
+}
+.text_white{
+    color: white,
+}
